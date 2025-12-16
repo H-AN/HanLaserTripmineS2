@@ -64,7 +64,7 @@
 
 攻击频率 LaserRate  (0.1 = 每0.1秒攻击一次) 
 
-自定义伤害 LaserDamage 击退 LaserKnockBack 攻击动画  FireAnim
+自定义伤害 LaserDamage 击退 LaserKnockBack 
 ```
 
 ```
