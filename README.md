@@ -264,9 +264,6 @@ Damage dealt by the laser
 LaserKnockBack
 Knockback force applied to targets
 
-FireAnim
-Attack animation played when dealing damage
-
 Explosive Laser Tripmine Settings
 
 ExplorerRadius
